@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ast-unsafe-call-import-blocker-skill",
+  "version": "1.0.0",
+  "description": "AST static analysis code auditor blocking forbidden module imports, dangerous syscalls, and arbitrary filesystem access.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "ast-security",
+    "code-auditor",
+    "import-blocker",
+    "safety",
+    "genpark",
+    "mcp"
+  ]
+}
